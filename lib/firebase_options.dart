@@ -41,48 +41,48 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyBDlj-E8onDBv_wEMaE2zwWuZT2G5xfHf0',
-    appId: '1:1019426616177:web:cdb88f0b73e2eee5f5fcd0',
-    messagingSenderId: '1019426616177',
-    projectId: 'fir-auth-6a5b0',
-    authDomain: 'fir-auth-6a5b0.firebaseapp.com',
-    storageBucket: 'fir-auth-6a5b0.appspot.com',
-    measurementId: 'G-HL32TLS3EQ',
+    apiKey: 'AIzaSyBIUW8g6G9NpBRR2Fq51nZLM0avi7X98CA',
+    appId: '1:859539264333:web:89376c7f7919d53d875d04',
+    messagingSenderId: '859539264333',
+    projectId: 'fir-auth-project-c2516',
+    authDomain: 'fir-auth-project-c2516.firebaseapp.com',
+    storageBucket: 'fir-auth-project-c2516.appspot.com',
+    measurementId: 'G-R6ZYS5CQTX',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyCz-Nch4VUlsBt6U6Q3VQ1SJnl-I09PR8k',
-    appId: '1:1019426616177:android:b4d04cd526d75cc5f5fcd0',
-    messagingSenderId: '1019426616177',
-    projectId: 'fir-auth-6a5b0',
-    storageBucket: 'fir-auth-6a5b0.appspot.com',
+    apiKey: 'AIzaSyAyF8RrzldsztHSE4eEk0ccewwrvzh0XW8',
+    appId: '1:859539264333:android:2342eea956ecb930875d04',
+    messagingSenderId: '859539264333',
+    projectId: 'fir-auth-project-c2516',
+    storageBucket: 'fir-auth-project-c2516.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyC7hPzlqYHUiru7ukOyUh8-Dz8FpxDwdkk',
-    appId: '1:1019426616177:ios:596d16a3d86aab60f5fcd0',
-    messagingSenderId: '1019426616177',
-    projectId: 'fir-auth-6a5b0',
-    storageBucket: 'fir-auth-6a5b0.appspot.com',
-    iosBundleId: 'com.example.firebaseAuth',
+    apiKey: 'AIzaSyBAjqHtEie73x5D0YUcYbTD2hpjWw-2S8o',
+    appId: '1:859539264333:ios:cd8371b14aae16cf875d04',
+    messagingSenderId: '859539264333',
+    projectId: 'fir-auth-project-c2516',
+    storageBucket: 'fir-auth-project-c2516.appspot.com',
+    iosBundleId: 'com.example.firebaseAuthProject',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyC7hPzlqYHUiru7ukOyUh8-Dz8FpxDwdkk',
-    appId: '1:1019426616177:ios:596d16a3d86aab60f5fcd0',
-    messagingSenderId: '1019426616177',
-    projectId: 'fir-auth-6a5b0',
-    storageBucket: 'fir-auth-6a5b0.appspot.com',
-    iosBundleId: 'com.example.firebaseAuth',
+    apiKey: 'AIzaSyBAjqHtEie73x5D0YUcYbTD2hpjWw-2S8o',
+    appId: '1:859539264333:ios:cd8371b14aae16cf875d04',
+    messagingSenderId: '859539264333',
+    projectId: 'fir-auth-project-c2516',
+    storageBucket: 'fir-auth-project-c2516.appspot.com',
+    iosBundleId: 'com.example.firebaseAuthProject',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyBDlj-E8onDBv_wEMaE2zwWuZT2G5xfHf0',
-    appId: '1:1019426616177:web:73d0b14bfc3bb561f5fcd0',
-    messagingSenderId: '1019426616177',
-    projectId: 'fir-auth-6a5b0',
-    authDomain: 'fir-auth-6a5b0.firebaseapp.com',
-    storageBucket: 'fir-auth-6a5b0.appspot.com',
-    measurementId: 'G-ZVX58SSF3G',
+    apiKey: 'AIzaSyBIUW8g6G9NpBRR2Fq51nZLM0avi7X98CA',
+    appId: '1:859539264333:web:67a6ebd3e2b8b3c9875d04',
+    messagingSenderId: '859539264333',
+    projectId: 'fir-auth-project-c2516',
+    authDomain: 'fir-auth-project-c2516.firebaseapp.com',
+    storageBucket: 'fir-auth-project-c2516.appspot.com',
+    measurementId: 'G-WDY30C43KZ',
   );
 }
